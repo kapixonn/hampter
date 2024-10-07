@@ -1,7 +1,4 @@
-/* General body styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
@@ -37,7 +34,6 @@ table tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
-/* Header styles */
 header {
     background-color: #4CAF50;
     padding: 10px;
@@ -68,7 +64,6 @@ header a:hover {
     background-color: #555;
 }
 
-/* Form styles */
 form {
     background-color: #fff;
     padding: 20px;
@@ -106,7 +101,6 @@ form button:hover {
     background-color: #45a049;
 }
 
-/* Table Styles */
 table {
     width: 100%;
     margin-top: 20px;
